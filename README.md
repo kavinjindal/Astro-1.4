@@ -6,6 +6,9 @@
 
  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/kavinjindal/Astro-999?style=for-the-badge)
 
+# [Support Server](https://discord.gg/vdzJyj3gWa) 
+
+
 
 Astro is a discord bot made in Python with many functions. It has moderation commands and also some fun commands.
 
